@@ -1,0 +1,13 @@
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\bin\Debug\netcoreapp3.1\EkstraOpgave4.exe
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\bin\Debug\netcoreapp3.1\EkstraOpgave4.deps.json
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\bin\Debug\netcoreapp3.1\EkstraOpgave4.runtimeconfig.json
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\bin\Debug\netcoreapp3.1\EkstraOpgave4.runtimeconfig.dev.json
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\bin\Debug\netcoreapp3.1\EkstraOpgave4.dll
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\bin\Debug\netcoreapp3.1\EkstraOpgave4.pdb
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.csprojAssemblyReference.cache
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.AssemblyInfoInputs.cache
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.AssemblyInfo.cs
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.csproj.CoreCompileInputs.cache
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.dll
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.pdb
+D:\Datamatiker\Programmering\VS Projects\EkstraOpgaver\EkstraOpgave4\EkstraOpgave4\obj\Debug\netcoreapp3.1\EkstraOpgave4.genruntimeconfig.cache
